@@ -1,4 +1,4 @@
-### _Pode me chamar de Madu_ 🐸
+### _Pode me chamar de Madu_
 
 ***
 
