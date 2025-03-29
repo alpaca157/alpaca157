@@ -11,4 +11,9 @@
 -  _Ilustradora nas horas vagas._  
 - _Intusiasta de Java e computação gráfica_
 
+> ![Instagram](https://img.shields.io/badge/m4duzis-749c5c](https://img.shields.io/badge/Instagram%3A%20m4duzis-749c5c)
+![Email](https://img.shields.io/badge/Gmail%3A%20meacandia%40gmail.com-749c5c)
+![Discord](https://img.shields.io/badge/Discord%3A%20alpac4-749c5c)
+
+
 ***
