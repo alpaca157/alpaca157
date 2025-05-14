@@ -10,6 +10,7 @@
 -  _Cursando Ciência da Computação na Universidade Federal de Pelotas._  
 -  _Ilustradora nas horas vagas._  
 - _Intusiasta de Java e computação gráfica_
+- Portifólio https://www.artstation.com/artwork/a0rbBq
 
 
 > ![Instagram](https://img.shields.io/badge/Instagram%3A%20m4duzis-749c5c)
